@@ -8,7 +8,7 @@
     
 }
 body {
-    scroll-behavior: smooth;
+    scroll-behavior: not smooth;
     overflow-x: hidden;
     overflow-y: hidden;
     margin-top: 0%;
